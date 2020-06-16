@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3283488",
+      "name": "角色列表",
+      "font_class": "role-list",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "4052248",
+      "name": "商品列表",
+      "font_class": "shangpinliebiao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "6035286",
+      "name": "数据报表",
+      "font_class": "shujubaobiao",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "7106830",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "7494900",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "8224839",
+      "name": "权限列表",
+      "font_class": "quanxianliebiao",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9336340",
+      "name": "分类-选中",
+      "font_class": "fenlei-0",
+      "unicode": "e51b",
+      "unicode_decimal": 58651
+    },
+    {
+      "icon_id": "10027299",
+      "name": "用户列表",
+      "font_class": "yonghuliebiao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
